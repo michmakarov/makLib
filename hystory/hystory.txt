@@ -1,0 +1,2 @@
+|230814 14:28|
+This is first record in the Projects/go_questions/20-scan/1/hystory.txt
